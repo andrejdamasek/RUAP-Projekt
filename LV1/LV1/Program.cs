@@ -10,7 +10,7 @@ namespace LV1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Pozdrav iz aplikacije od Andrej Damašek");
+            Console.WriteLine("Pozdrav iz aplikacije od Andrej Damašek, broj indeksa: 100644 ");
 
         }
     }
